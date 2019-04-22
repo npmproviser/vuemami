@@ -1,6 +1,6 @@
 {
   "name": "vuemami",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add flavor to your progressive web apps.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/npmproviser/vuemami/issues"
   },
-  "homepage": "https://github.com/npmproviser/vuemami#readme"
+  "homepage": "https://github.com/npmproviser/vuemami#readme",
+  "dependencies": {
+    "gsap": "^2.1.2"
+  }
 }
