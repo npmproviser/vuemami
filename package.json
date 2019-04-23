@@ -1,6 +1,6 @@
 {
   "name": "vuemami",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Add flavor to your progressive web apps.",
   "main": "index.js",
   "scripts": {
